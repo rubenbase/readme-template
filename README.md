@@ -1,55 +1,28 @@
-<span>hello</span>
 <h1 align="center">
-  	<img src="https://i.imgur.com/437g3xc.png" alt="Simba Logo" />
+    <img src="https://i.imgur.com/437g3xc.png" alt="Simba Logo" />
 </h1>
 <h2 align="center">
-	SIMBA
+    SIMBA
 </h2>
+<div align="center">
+
+![React][react-version-badge]
+![Mobx][mobx-version-badge]
+
+[What](https://vfuk-digital.visualstudio.com/Digital/_wiki/wikis/Digital%20X.wiki/420/SIMBA-Wiki)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[How](https://vfuk-digital.visualstudio.com/Digital/_wiki/wikis/Digital%20X.wiki/420/SIMBA-Wiki)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Dependencies](https://vfuk-digital.visualstudio.com/Digital/_wiki/wikis/Digital%20X.wiki/420/SIMBA-Wiki)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+[Wiki](https://vfuk-digital.visualstudio.com/Digital/_wiki/wikis/Digital%20X.wiki/420/SIMBA-Wiki)
+
+</div>
+
 <h3  align="center">
-	In charge of the Sim Only front end
+  In charge of the Sim Only front end
 </h3>
-<h4 align="center">
-	URLs covered are:
-</h4>
-<h4  align="center">
-	/mobile/best-sim-only-deals
-</h4>
-<h4  align="center">
-	/business/business-sim-only
-</h4>
-<h4  align="center">
-	/data-only-sym
-</h4>
-<h4  align="center">
-	/data-only-sym
-</h4>
 
 <h1 align="center">
   	<img src="https://i.imgur.com/qshj0s2.png" alt="Simo page" />
 </h1>
-
-<div align="center">
-
-[What?][release]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[How?](#patched-fonts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Dependencies](#font-patcher)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki Documentation][wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Stickers][stickers]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-
-[![GitHub release][img-version-badge]][repo] [![Gitter][img-gitter-badge]][gitter] [![Build Status][img-travis-ci]][travis-ci] [![Code of Conduct][coc-badge]][coc] [![PRs Welcome][prs-badge]][prs]  <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt="Nerd Fonts - OS Support"></a> [![Twitter][twitter-badge]][twitter-intent]
-
-
-</div>
-
-BLABLABLABLABLABLABLABLA
-
-
-**Nerd Fonts** is a project that patches developer targeted fonts with a high number of glyphs (icons). Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as [Font Awesome ➶][font-awesome], [Devicons ➶][vorillaz-devicons], [Octicons ➶][octicons], and [others](#glyph-sets).
-
-The following Sankey flow diagram shows the current glyph sets included:
-
-<p align="center">
-  <img src="images/sankey-glyphs-combined-diagram.svg" alt="@SankeyMATIC Diagram" />
-</p>
-<sub><i>Diagram created using <a href="http://sankeymatic.com/" title="SankeyMATIC (BETA): A Sankey diagram builder for everyone">@SankeyMATIC</a></i></sub>
-
 
 ## Important Notices
 * We follow [**trunk based development**](#todo) and the `master` branch is our _trunk_	
@@ -528,8 +501,8 @@ Link References
 [badge-version]:https://badge.fury.io/gh/ryanoasis%2Fnerd-fonts
 [badge-gitter]:https://gitter.im/ryanoasis/nerd-fonts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-[img-version-badge]:https://img.shields.io/github/release/ryanoasis/nerd-fonts.svg?style=for-the-badge
-[img-gitter-badge]:https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=for-the-badge
+[react-version-badge]:https://img.shields.io/badge/React-v1.2-blue
+[mobx-version-badge]:https://img.shields.io/badge/Mobx-v1.2-green
 [img-code-climate-badge]:https://img.shields.io/codeclimate/issues/ryanoasis/nerd-fonts.svg?style=for-the-badge
 [img-travis-ci]:https://img.shields.io/travis/ryanoasis/nerd-fonts.svg?branch=master&style=for-the-badge
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=for-the-badge
