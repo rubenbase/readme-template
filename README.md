@@ -30,7 +30,7 @@ The following Sankey flow diagram shows the current glyph sets included:
 
 ## Important Notices
 * `master` branch file paths are **not** considered stable. [Verify your repository URI references](#unstable-file-paths)
-* cloning this repository is **not** recommended ([due to Repo size](#option-5-clone-the-repo)) unless you are going to be [contributing to development](#contributing)
+* This repository uses **SSR** ([due to its benefits](#todo)) read more about ([how we do it](#todo))
 
 
 ## Table of Contents
