@@ -29,7 +29,7 @@ The following Sankey flow diagram shows the current glyph sets included:
 
 
 ## Important Notices
-* `master` branch file paths are **not** considered stable. [Verify your repository URI references](#unstable-file-paths)
+* We follow [**Trunc Based Development**](#todo) and `master` branch is our `trunc`
 * This repository uses **SSR** ([due to its benefits](#todo)) read more about [how we do it](#todo)
 
 
