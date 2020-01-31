@@ -102,6 +102,8 @@ _If you..._
 
 See [Wiki: Glyph Sets and Codepoints for more details][wiki-glyph-sets-codepoints]
 
+TEST RUN: edit at same time
+
 ### Icon names in shell
 
 See [Wiki: Icon names in shell][wiki-icon-names-in-shell]
