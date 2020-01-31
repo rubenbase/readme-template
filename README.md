@@ -29,7 +29,7 @@ The following Sankey flow diagram shows the current glyph sets included:
 
 
 ## Important Notices
-* We follow [**trunk based development**](#todo) and the `master` branch is our _trunk
+* We follow [**trunk based development**](#todo) and the `master` branch is our _trunk_
 * This repository uses **SSR** ([due to its benefits](#todo)) read more about [how we do it](#todo)
 
 
