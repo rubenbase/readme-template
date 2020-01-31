@@ -57,7 +57,7 @@
 </section>
 
 <figure align="center" style="margin-bottom:48px">
- <img src="assets/sim-only.gif" width="80%">
+ <img src="sim-only.gif" width="80%">
 </figure>
 
 <main>
