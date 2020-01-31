@@ -52,42 +52,29 @@ The following Sankey flow diagram shows the current glyph sets included:
 
 
 ## Important Notices
-* `master` branch file paths are **not** considered stable. [Verify your repository URI references](#unstable-file-paths)
-* cloning this repository is **not** recommended ([due to Repo size](#option-5-clone-the-repo)) unless you are going to be [contributing to development](#contributing)
+* We follow [**trunk based development**](#todo) and the `master` branch is our _trunk_	
+* This repository uses **SSR** ([due to its benefits](#todo)) read more about [how we do it](#todo)	
 
 
 ## Table of Contents
 
 [**TL;DR**](#tldr)
 
-[**Installation Options**](#font-installation)
-  * [**1 - Manual**](#option-1-download-and-install-manually)
-  * [**2 - Release Archive Download**](#option-2-release-archive-download)
-  * [**3 - Install Script**](#option-3-install-script)
-  * [**4 - Homebrew Fonts (macOS (OS X))**](#option-4-homebrew-fonts)
-  * [**5 - Clone Repo**](#option-5-clone-the-repo)
-  * [**6 - Ad Hoc Curl Download**](#option-6-ad-hoc-curl-download)
-  * [**7 - Arch User Repository (AUR) (Arch Linux)**](#option-7-unofficial-arch-user-repository-aur)
-  * [**8 - Patch Your Own Font**](#option-8-patch-your-own-font)
+[**Pre Requisites**](#pre-requisites)
 
-[**Features**](#features)
-  * [**Glyph/Icon sets**](#glyph-sets)
-  * [**Patched Fonts**](#patched-fonts)
-  * [**Combinations**](#combinations)
-  * [**Font Patcher**](#font-patcher)
+[**How to run**](#how-to-run)
 
-[**Developer / Contributor**](#font-patcher)
-  * [**Font Patcher**](#font-patcher)
-  * [**Gotta Patch 'em All Font Patcher!**](#gotta-patch-em-all)
-  * [**Other Good Fonts to Patch**](#other-good-fonts-to-patch)
-  * [**Contributing**](#contributing)
+[**Gotchas**](#gotchas)
 
-[**Project Motivation**](#project-motivation)
+[**Branching / Contributing**](#branching-contributing)
 
-**Additional Info**
-  * [**Unstable file paths on master**](#unstable-file-paths)
-  * [**Changelog**](#changelog)
-  * [**License**](#license)
+[**API Integration**](#api-integration)
+
+[**State Management**](#state-management)
+
+[**Testing**](#quality-gate-sonar)
+* [**Quality gates / Sonar**](#quality-gates-sonar)
+* [**Mocking**](#mocking)
 
 
 ## TL;DR
@@ -107,6 +94,32 @@ _If you..._
   * `Option 6.` want to use the **`curl` command** or use in **scripts** see [Ad Hoc Curl Download](#option-6-ad-hoc-curl-download)
   * `Option 7.` are on **Arch Linux** and want to use **AUR packages** see [Unofficial Arch User Repositories](#option-7-unofficial-arch-user-repository-aur)
   * `Option 8.` want to patch your own font see the [Font Patcher](#option-8-patch-your-own-font)
+
+## TL;DR
+  Text for TL;DR
+
+## Pre Requisites
+  Text for Pre Requisites
+
+## How to run
+  Text for How to run
+
+## Gotchas
+  Text for Gotchas
+
+## Branching/Contributing
+  Text for Branching / Contributing
+
+## API Integration
+  Text for API Integration
+
+## State Management
+  Text for State Management
+
+## Testing
+  Text for Testing
+
+
 
 ## Features
 * A [FontForge Python script](#font-patcher) to patch any font
