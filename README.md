@@ -1,13 +1,35 @@
 <h1 align="center">
-  <img src="images/Team Logo.svg" alt="Vodafone Logo" />
+  	<img src="https://i.imgur.com/437g3xc.png" alt="Simba Logo" />
 </h1>
 <h2 align="center">
-  <img alt="Team Browser Page Name" src="images/project-subtitle-phrase.svg">
+	SIMBA
 </h2>
+<h3  align="center">
+	In charge of the Sim Only front end
+</h3>
+<h4 align="center">
+	URLs covered are:
+</h4>
+<h4  align="center">
+	/mobile/best-sim-only-deals
+</h4>
+<h4  align="center">
+	/business/business-sim-only
+</h4>
+<h4  align="center">
+	/data-only-sym
+</h4>
+<h4  align="center">
+	/data-only-sym
+</h4>
+
+<h1 align="center">
+  	<img src="https://i.imgur.com/qshj0s2.png" alt="Simo page" />
+</h1>
 
 <div align="center">
 
-[Releases][release]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Fonts](#patched-fonts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Font Patcher](#font-patcher)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki Documentation][wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Stickers][stickers]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[VimDevIcons][vim-devicons]
+[What?][release]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[How?](#patched-fonts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Dependencies](#font-patcher)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki Documentation][wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Stickers][stickers]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 
 [![GitHub release][img-version-badge]][repo] [![Gitter][img-gitter-badge]][gitter] [![Build Status][img-travis-ci]][travis-ci] [![Code of Conduct][coc-badge]][coc] [![PRs Welcome][prs-badge]][prs]  <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt="Nerd Fonts - OS Support"></a> [![Twitter][twitter-badge]][twitter-intent]
@@ -29,15 +51,15 @@ The following Sankey flow diagram shows the current glyph sets included:
 
 
 ## Important Notices
-* We follow [**trunk based development**](#todo) and the `master` branch is our _trunk_
-* This repository uses **SSR** ([due to its benefits](#todo)) read more about [how we do it](#todo)
+* `master` branch file paths are **not** considered stable. [Verify your repository URI references](#unstable-file-paths)
+* cloning this repository is **not** recommended ([due to Repo size](#option-5-clone-the-repo)) unless you are going to be [contributing to development](#contributing)
 
 
 ## Table of Contents
 
 [**TL;DR**](#tldr)
 
-[**Pre Requisites**](#pre-requisites)
+[**Installation Options**](#font-installation)
   * [**1 - Manual**](#option-1-download-and-install-manually)
   * [**2 - Release Archive Download**](#option-2-release-archive-download)
   * [**3 - Install Script**](#option-3-install-script)
