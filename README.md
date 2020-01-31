@@ -38,28 +38,14 @@ The following Sankey flow diagram shows the current glyph sets included:
 [**TL;DR**](#tldr)
 
 [**Pre Requisites**](#pre-requisites)
-  * [**1 - Manual**](#option-1-download-and-install-manually)
-  * [**2 - Release Archive Download**](#option-2-release-archive-download)
-  * [**3 - Install Script**](#option-3-install-script)
-  * [**4 - Homebrew Fonts (macOS (OS X))**](#option-4-homebrew-fonts)
-  * [**5 - Clone Repo**](#option-5-clone-the-repo)
-  * [**6 - Ad Hoc Curl Download**](#option-6-ad-hoc-curl-download)
-  * [**7 - Arch User Repository (AUR) (Arch Linux)**](#option-7-unofficial-arch-user-repository-aur)
-  * [**8 - Patch Your Own Font**](#option-8-patch-your-own-font)
-
-[**Features**](#features)
-  * [**Glyph/Icon sets**](#glyph-sets)
-  * [**Patched Fonts**](#patched-fonts)
-  * [**Combinations**](#combinations)
-  * [**Font Patcher**](#font-patcher)
-
-[**Developer / Contributor**](#font-patcher)
-  * [**Font Patcher**](#font-patcher)
-  * [**Gotta Patch 'em All Font Patcher!**](#gotta-patch-em-all)
-  * [**Other Good Fonts to Patch**](#other-good-fonts-to-patch)
-  * [**Contributing**](#contributing)
-
-[**Project Motivation**](#project-motivation)
+[**How to run**](#how-to-run)
+[**Gotchas**](#gotchas)
+[**Branching / Contributing**](#branching-contributing)
+[**API Integration**](#api-integration)
+[**State Management**](#state-management)
+[**Testing**](#quality-gate-sonar)
+* [**Quality gates / Sonar**](#quality-gates-sonar)
+* [**Mocking**](#mocking)
 
 **Additional Info**
   * [**Unstable file paths on master**](#unstable-file-paths)
@@ -85,7 +71,7 @@ _If you..._
   * `Option 7.` are on **Arch Linux** and want to use **AUR packages** see [Unofficial Arch User Repositories](#option-7-unofficial-arch-user-repository-aur)
   * `Option 8.` want to patch your own font see the [Font Patcher](#option-8-patch-your-own-font)
 
-## Features
+## Pre Requisites
 * A [FontForge Python script](#font-patcher) to patch any font
   * Includes an option to create **Monospaced (fixed-pitch, fixed-width)** _or_ **double-width (non-monospaced)** glyphs
   * For more details see the [**Font Patcher**](#font-patcher) section
