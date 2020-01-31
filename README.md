@@ -37,7 +37,7 @@ The following Sankey flow diagram shows the current glyph sets included:
 
 [**TL;DR**](#tldr)
 
-[**Installation Options**](#font-installation)
+[**Pre Requisites**](#pre-requisites)
   * [**1 - Manual**](#option-1-download-and-install-manually)
   * [**2 - Release Archive Download**](#option-2-release-archive-download)
   * [**3 - Install Script**](#option-3-install-script)
