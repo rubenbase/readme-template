@@ -44,17 +44,14 @@
 
 <br/>
 
-<section style="font-size:20px;margin-top:8px;margin-bottom:48px;">
-  <span style="font-weight:bold;margin-bottom:0;">What we do: </span><span>SIM-only</span>
+### What we do: SIM-only
+### Product Owner: Emma Murray
+### Scrum Master: Saskia Traube
+### Team Lead: Ben Welsh
 
-  <span style="font-weight:bold;margin-bottom:0;">Scrum Master: </span><span>Saskia Traube</span>
+<span style="font-weight:bold">Quick URLs: <a href="https://www.vodafone.co.uk/mobile/best-sim-only-deals" style="font-weight:normal"> /mobile/best-sim-only-deals</a> | <a href="https://www.vodafone.co.uk/business/business-sim-only" style="font-weight:normal"> /business/business-sim-only</a> | <a href="https://www.vodafone.co.uk/data-only-sim" style="font-weight:normal"> /data-only-sim</a> </span>
 
-  <span style="font-weight:bold;margin-bottom:0;">Product Owner: </span><span>Emma Murray</span>
-
-  <span style="font-weight:bold;margin-bottom:0;">Team Lead: </span><span>Ben Welsh</span>
-
-  <span style="font-weight:bold">Quick URLs: <a href="https://www.vodafone.co.uk/mobile/best-sim-only-deals" style="font-weight:normal"> /mobile/best-sim-only-deals</a> | <a href="https://www.vodafone.co.uk/business/business-sim-only" style="font-weight:normal"> /business/business-sim-only</a> | <a href="https://www.vodafone.co.uk/data-only-sim" style="font-weight:normal"> /data-only-sim</a> </span>
-</section>
+<br/>
 
 <figure align="center" style="margin-bottom:48px">
  <img src="sim-only.gif" width="80%">
@@ -106,25 +103,25 @@
 
 <article>
 
-## **Pre Requisites**
+## Pre Requisites
   Text for Pre Requisites
 
-## **How to run**
+## How to run
   Text for How to run
 
-## **Gotchas**
+## Gotchas
   Text for Gotchas
 
-## **Branching/Contributing**
+## Branching/Contributing
   Text for Branching / Contributing
 
-## **API Integration**
+## API Integration
   Text for API Integration
 
-## **State Management**
+## State Management
   Text for State Management
 
-## **Testing**
+## Testing
   Text for Testing
 
 </article>
