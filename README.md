@@ -104,11 +104,18 @@
 <article>
 
 ## Pre Requisites
-  Text for Pre Requisites
-
+ - Node v10.x.x
+ - Yarn
+ 
 ## How to run
-  Text for How to run
-
+  Clone the repo
+  
+  `git clone <repo url>`
+  
+  Install the dependencies and run the project
+  
+  `yarn && yarn start`
+  
 ## Gotchas
   Text for Gotchas
 
