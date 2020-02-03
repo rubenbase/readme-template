@@ -65,7 +65,7 @@
 
 </header>
 
-* We follow [**trunk based development**](#todo) and the `master` branch is our _trunk_	
+* We follow [**trunk based development**](https://trunkbaseddevelopment.com/) and the `master` branch is our _trunk_	
 * This repository uses **SSR** ([due to its benefits](#todo)) read more about [how we do it](#todo)	
 
 <br/>
